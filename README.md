@@ -15,6 +15,7 @@ I may not respond as promptly to the privacy-enabled channels as I do the more w
 - Twitter:  @QuantenGhost
 
 
+
 # Public Encryption Keys 
 
 ## Keybase.io signing and messaging
