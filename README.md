@@ -12,7 +12,7 @@ The online presence of **QuantenGhost** is exclusively social and personal in na
 I may not respond as promptly to the privacy-enabled channels as I do the more widely adopted messaging and mail products. I use an exceptionally large array of communication mediums. If you opt to message me via Keybase or ProtonMail free encourage to message me mentioning that I should check my secure messages.
 
 - Gmail:    q.ghost.contact@gmail.com
-- Twitter:  https://twitter.com/QuantenGhost/
+- Twitter:  [@QuantenGhost](https://twitter.com/QuantenGhost/)
 
 
 
