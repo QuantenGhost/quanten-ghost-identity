@@ -2,7 +2,7 @@
 
 The **PGP cryptographic keys** here serve to verify signed communications representing the online identify known as  QuantenGhost. Predominant services for these keys are available:
 
-- Encrypted Messaging:   https://keybase.io/quantenghost
+- Encrypted Messaging:   https://keybase.io/QuantenGhost
 - Encrypted Mail:        QuantenGhost@protonmail.com
 
 ## Social Use Only
@@ -12,14 +12,14 @@ The online presence of **QuantenGhost** is exclusively social and personal in na
 I may not respond as promptly to the privacy-enabled channels as I do the more widely adopted messaging and mail products. I use an exceptionally large array of communication mediums. If you opt to message me via Keybase or ProtonMail free encourage to message me mentioning that I should check my secure messages.
 
 - Gmail:    q.ghost.contact@gmail.com
-- Twitter:  @QuantenGhost
+- Twitter:  https://twitter.com/QuantenGhost/
 
 
 
 # Public Encryption Keys 
 
-## Keybase.io signing and messaging
-Public PGP for Keybase.io communication https://keybase.io/quantenghost
+## Keybase.io
+Public PGP for singning Keybase.io communication https://keybase.io/QuantenGhost
  - Algorithm:    `RSA (4096)`
  - Fingerprint:  `35DF5867F35E5D5BBA4E4666988E344F25925E39`
 
