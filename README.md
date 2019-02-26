@@ -5,6 +5,13 @@ The **PGP cryptographic keys** here serve to verify signed communications repres
 - Encrypted Messaging:   https://keybase.io/QuantenGhost
 - Encrypted Mail:        QuantenGhost@protonmail.com
 
+## Public PGP Keys
+I presently have three public PGP keys for use with various services. They may be used to send me encrypted messages:
+
+   * [keybase.io](#keybaseio)
+   * [protonmail](#proton-mail)
+   * [pm.me](#pmme)
+
 ## Social Use Only
 The online presence of **QuantenGhost** is exclusively social and personal in nature. I normally hold few vehimently confidential communications electronically. However, please accept the additional public keys below as an oportunity to communicate privately with me at your descretion.
 
