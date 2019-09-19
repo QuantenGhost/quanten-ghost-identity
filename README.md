@@ -29,7 +29,15 @@ I may not respond as promptly to the privacy-enabled channels as I do the more w
 Public PGP for singning Keybase.io communication https://keybase.io/QuantenGhost
  - Algorithm:    `RSA (4096)`
  - Fingerprint:  `35DF5867F35E5D5BBA4E4666988E344F25925E39`
+ - Raw Public Key: https://keybase.io/quantenghost/pgp_keys.asc
 
+## Import my Public Key for you gpg keychain
+```
+# curl + gpg pro tip: import quantenghost's keys
+curl https://keybase.io/quantenghost/pgp_keys.asc | gpg --import
+```
+
+## The Public Key
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Comment: https://keybase.io/download
